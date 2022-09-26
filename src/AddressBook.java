@@ -20,7 +20,7 @@ public class AddressBook {
             System.out.println(buddies.get(index).getName() + " removed from the address book");
         }
     }
-
+    //i am commiting this from GitHub website
     public static void main(String[] args) {
         BuddyInfo homer = new BuddyInfo("Homer", "Carleton", "613");
         AddressBook addressBook = new AddressBook();
