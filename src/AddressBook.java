@@ -23,6 +23,8 @@ public class AddressBook {
     //i am commiting this from GitHub website
 
     //This comment is made from the Checkout branch.
+    //This change will be seen in master branch soon.
+
 
     public static void main(String[] args) {
         BuddyInfo homer = new BuddyInfo("Homer", "Carleton", "613");
